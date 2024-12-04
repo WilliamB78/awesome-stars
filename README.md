@@ -160,6 +160,7 @@
 
 ## Rust 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -192,6 +193,7 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
