@@ -128,6 +128,7 @@
 
 ## PHP 
 
+- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [formal-php/orm](https://github.com/formal-php/orm) - 
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
