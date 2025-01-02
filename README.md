@@ -131,6 +131,8 @@
 
 ## PHP 
 
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [formal-php/orm](https://github.com/formal-php/orm) - 
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
@@ -219,6 +221,7 @@
 
 ## Vue 
 
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 
