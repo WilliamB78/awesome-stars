@@ -360,6 +360,7 @@
 
 ## go 
 
+- [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -464,6 +465,7 @@
 
 ## http 
 
+- [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
@@ -767,6 +769,7 @@
 
 ## server 
 
+- [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 
 ## serverless 
