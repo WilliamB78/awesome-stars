@@ -25,6 +25,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -235,6 +236,10 @@
 ## cpp 
 
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+
+## cryptography 
+
+- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
 
 ## csharp 
 
@@ -749,6 +754,7 @@
 
 ## privacy 
 
+- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## programming 
@@ -805,6 +811,7 @@
 
 ## security 
 
+- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
