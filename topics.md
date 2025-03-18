@@ -18,6 +18,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
@@ -47,6 +48,9 @@
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
+- [game](#game)
+- [game-development](#game-development)
+- [game-engine](#game-engine)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -83,6 +87,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
 - [php](#php)
@@ -201,6 +206,10 @@
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 
+## c-plus-plus 
+
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
 ## chatgpt 
 
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -237,6 +246,7 @@
 
 ## cpp 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 
 ## cryptography 
@@ -387,6 +397,18 @@
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
+## game 
+
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
+## game-development 
+
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
+## game-engine 
+
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
 ## git 
 
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -492,6 +514,7 @@
 
 ## hacktoberfest 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
@@ -601,6 +624,7 @@
 
 ## linux 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
@@ -712,6 +736,10 @@
 
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 
+## opengl 
+
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
+
 ## others 
 
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
@@ -796,6 +824,7 @@
 
 ## python 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -804,6 +833,7 @@
 
 ## qt 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 
 ## raspberry-pi 
