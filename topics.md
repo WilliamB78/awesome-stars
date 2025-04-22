@@ -308,6 +308,7 @@
 
 ## devops 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
@@ -440,6 +441,7 @@
 
 ## go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [MizuchiLabs/mantrae](https://github.com/MizuchiLabs/mantrae) - Web UI for managing Traefik
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
