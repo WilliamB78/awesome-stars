@@ -61,6 +61,7 @@
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
 - [https](#https)
@@ -568,6 +569,10 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
+
+## homebrew 
+
+- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 
 ## html 
 
