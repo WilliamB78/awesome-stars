@@ -773,6 +773,7 @@
 
 ## others 
 
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [DartSteven/Nutify](https://github.com/DartSteven/Nutify) - Modern web-based UPS monitoring system with real-time data visualization, alerts, and comprehensive reporting. Docker-ready with multi-architecture support.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
