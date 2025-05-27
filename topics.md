@@ -287,6 +287,7 @@
 
 ## database 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -487,6 +488,7 @@
 
 ## golang 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -537,6 +539,7 @@
 
 ## hacktoberfest 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -589,7 +592,7 @@
 ## https 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 
 ## iot 
 
@@ -719,11 +722,12 @@
 
 ## mysql 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 
 ## nestjs 
 
@@ -773,6 +777,8 @@
 
 ## others 
 
+- [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
+- [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [DartSteven/Nutify](https://github.com/DartSteven/Nutify) - Modern web-based UPS monitoring system with real-time data visualization, alerts, and comprehensive reporting. Docker-ready with multi-architecture support.
@@ -830,6 +836,7 @@
 
 ## postgresql 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -907,11 +914,12 @@
 
 ## rust 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 
 ## security 
@@ -951,6 +959,7 @@
 
 ## server 
 
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
@@ -969,6 +978,7 @@
 
 ## sql 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -976,6 +986,7 @@
 
 ## sqlite 
 
+- [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
