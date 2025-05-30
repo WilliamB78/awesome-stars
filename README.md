@@ -64,6 +64,7 @@
 
 ## Go 
 
+- [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
