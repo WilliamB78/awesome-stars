@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
@@ -174,6 +175,10 @@
 ## Kotlin 
 
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+## MDX 
+
+- [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
 
 ## Makefile 
 
