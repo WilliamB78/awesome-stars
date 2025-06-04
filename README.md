@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 
@@ -243,7 +244,7 @@
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
