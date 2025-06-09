@@ -29,6 +29,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [YAML](#yaml)
 
 ## C 
 
@@ -306,6 +307,10 @@
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+## YAML 
+
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
 
 ## License
