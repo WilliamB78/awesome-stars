@@ -185,7 +185,7 @@
 
 ## automation 
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -511,7 +511,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -648,6 +648,7 @@
 
 ## kubernetes 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
@@ -813,6 +814,8 @@
 
 ## others 
 
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
+- [siderolabs/omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 - [TheFirewall-code/TheFirewall-Secrets-SCA](https://github.com/TheFirewall-code/TheFirewall-Secrets-SCA) - 
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
@@ -918,6 +921,7 @@
 
 ## python 
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
