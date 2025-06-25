@@ -648,6 +648,7 @@
 
 ## kubernetes 
 
+- [fabmade/cert-manager-webhook-ionos](https://github.com/fabmade/cert-manager-webhook-ionos) - Cert manager acme dns01 webhook provider for ionos
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
