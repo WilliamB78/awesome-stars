@@ -73,6 +73,7 @@
 
 ## Go 
 
+- [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [fabmade/cert-manager-webhook-ionos](https://github.com/fabmade/cert-manager-webhook-ionos) - Cert manager acme dns01 webhook provider for ionos
