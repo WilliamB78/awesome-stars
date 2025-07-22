@@ -9,7 +9,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -54,10 +53,6 @@
 
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
-
-## Clojure 
-
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 
 ## Dart 
 
@@ -304,9 +299,11 @@
 
 ## TypeScript 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
