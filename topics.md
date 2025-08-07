@@ -843,6 +843,7 @@
 
 ## others 
 
+- [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
 - [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
