@@ -112,7 +112,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a lightweight and powerful workflow engine for small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find Airflow to be overkill and are looking f
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
