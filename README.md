@@ -71,6 +71,7 @@
 
 ## Go 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
 - [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is an extensible Software Framework/Engine for building CI/CD Platforms.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
@@ -212,7 +213,7 @@
 
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
-- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 Automate everything. In PHP.
+- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for PHP.
 - [formal-php/orm](https://github.com/formal-php/orm) - 
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
