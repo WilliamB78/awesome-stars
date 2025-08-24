@@ -187,7 +187,7 @@
 
 ## automation 
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for small teams. It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow engine for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts on a schedu
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -474,6 +474,7 @@
 
 ## go 
 
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -518,6 +519,7 @@
 
 ## golang 
 
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [stephenafamo/bob](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite
@@ -530,7 +532,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, versatile workflow engine for small teams. It allows you to schedule the execution of DAGs with Cron expressions, and natively support running containers, executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile workflow engine for scheduling tasks, running containers, and remote execution. Single binary with Web UI. It can create complex workflows and run arbitrary commands or scripts on a schedu
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1152,6 +1154,8 @@
 
 ## vpn 
 
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
