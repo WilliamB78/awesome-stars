@@ -46,6 +46,7 @@
 
 ## C++ 
 
+- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 - [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -72,6 +73,8 @@
 
 ## Go 
 
+- [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
