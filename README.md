@@ -73,6 +73,7 @@
 
 ## Go 
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
@@ -275,6 +276,7 @@
 
 ## Rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
