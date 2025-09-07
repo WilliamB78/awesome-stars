@@ -55,6 +55,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -466,6 +467,12 @@
 
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 
+## gaming 
+
+- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- [treyyoder/quakejs-docker](https://github.com/treyyoder/quakejs-docker) - Dockerized quakejs server
+
 ## git 
 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -866,7 +873,6 @@
 
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) - Build Container Images In Kubernetes
-- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
