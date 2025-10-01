@@ -262,7 +262,7 @@
 ## cloud 
 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is an extensible Software Framework/Engine for building CI/CD Platforms.
+- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is an open-source lightweight engine for building distributed CI/CD systems with ease
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -356,14 +356,14 @@
 ## devops 
 
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is an extensible Software Framework/Engine for building CI/CD Platforms.
+- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is an open-source lightweight engine for building distributed CI/CD systems with ease
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine alternative to Airflow & Cron. Single binary with Web UI. It natively supports running containers and executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. It natively supports running containers and executing commands over SSH. Offline or air-gapped environ
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -890,6 +890,7 @@
 
 ## others 
 
+- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
