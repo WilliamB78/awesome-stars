@@ -619,6 +619,7 @@
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
