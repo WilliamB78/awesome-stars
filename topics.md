@@ -149,6 +149,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -1297,6 +1298,11 @@
 ## wordpress 
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
+
+## youtube 
+
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 
 ## zsh 
 
