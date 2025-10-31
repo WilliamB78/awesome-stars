@@ -16,6 +16,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -223,6 +224,10 @@
 
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+## Lua 
+
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## MDX 
 
