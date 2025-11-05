@@ -163,7 +163,7 @@
 ## analytics 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 
 ## android 
 
@@ -397,7 +397,7 @@
 - [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -643,7 +643,7 @@
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
@@ -704,7 +704,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 
 ## java 
@@ -853,7 +853,7 @@
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 
 ## music 
 
@@ -1136,7 +1136,7 @@
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
