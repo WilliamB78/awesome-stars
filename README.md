@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [micr0-dev/wellness-ping](https://github.com/micr0-dev/wellness-ping) - A simple dead man's switch service. Get pinged regularly to confirm you're okay. If you don't respond, your emergency contacts get alerted.
@@ -142,7 +143,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands ov
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and ex
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
