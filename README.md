@@ -81,6 +81,7 @@
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
@@ -149,7 +150,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight workflow engine alternative to Cron or Airflow without operational overhead.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. No code, self-contained, and portable.  execute them anywhere with a single binary, compose complex pipelines from reusable sub-workflows, and distri
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
@@ -211,7 +212,6 @@
 
 ## HTML 
 
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## JavaScript 
