@@ -76,6 +76,7 @@
 - [https](#https)
 - [ios](#ios)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
@@ -231,6 +232,7 @@
 
 ## azure 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -550,7 +552,7 @@
 
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -765,6 +767,10 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 
+## ipfs 
+
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+
 ## java 
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -898,7 +904,6 @@
 
 ## mcp 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
