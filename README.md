@@ -13,6 +13,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -26,7 +27,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -215,13 +215,17 @@
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 
+## Go Template 
+
+- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
+
 ## HTML 
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## JavaScript 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -355,10 +359,6 @@
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-## Smarty 
-
-- [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 
 ## Svelte 
 
