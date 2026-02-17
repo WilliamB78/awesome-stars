@@ -294,6 +294,7 @@
 
 ## Python 
 
+- [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
