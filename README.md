@@ -159,7 +159,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - DAG orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - CLI and AI-agent orchestration built like infrastructure should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
@@ -304,7 +304,7 @@
 - [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
@@ -382,7 +382,7 @@
 
 ## TypeScript 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
 - [cmintey/wishlist](https://github.com/cmintey/wishlist) - Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and c
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
