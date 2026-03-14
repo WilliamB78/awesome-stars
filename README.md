@@ -424,6 +424,7 @@
 
 ## YAML 
 
+- [okwilkins/h8s](https://github.com/okwilkins/h8s) - Homernetes is a Talos OS based K8s cluster for my homelab.
 - [brainfair/awesome-flux-infra](https://github.com/brainfair/awesome-flux-infra) - This repository contains infrastructure applications and add-ons installed in Kubernetes via FluxCD v2.
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
