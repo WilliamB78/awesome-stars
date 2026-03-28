@@ -675,6 +675,7 @@
 
 ## golang 
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
 - [jlandersen/k8s-unix-system](https://github.com/jlandersen/k8s-unix-system) - Jurassic Park Unix System style Kubernetes resource viewer
@@ -874,6 +875,7 @@
 
 ## kubernetes 
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -1344,6 +1346,7 @@
 
 ## self-hosted 
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
