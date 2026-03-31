@@ -366,7 +366,7 @@
 
 ## cybersecurity 
 
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 
 ## dart 
@@ -778,7 +778,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -879,6 +879,7 @@
 
 ## kubernetes 
 
+- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
@@ -935,7 +936,7 @@
 - [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 12.
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1104,7 +1105,7 @@
 
 ## osint 
 
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 
 ## others 
@@ -1194,7 +1195,7 @@
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 12.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1261,7 +1262,7 @@
 ## python 
 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username  OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
@@ -1443,7 +1444,7 @@
 ## symfony 
 
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator is a lightweight, standalone server that offers a range of debugging features for PHP applications.
+- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [php-enqueue/enqueue-dev](https://github.com/php-enqueue/enqueue-dev) - Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro
 
 ## tailwind 
