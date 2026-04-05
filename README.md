@@ -79,7 +79,6 @@
 ## Go 
 
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
-- [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -168,7 +167,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
@@ -364,7 +363,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS updater for Cloudflare
+- [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
@@ -397,6 +396,7 @@
 
 ## TypeScript 
 
+- [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
