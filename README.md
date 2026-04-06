@@ -167,7 +167,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator h
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Built-in AI-Agents handl
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
