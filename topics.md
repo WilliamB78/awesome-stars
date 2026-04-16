@@ -1127,6 +1127,7 @@
 
 ## others 
 
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [stryan/materia](https://github.com/stryan/materia) - GitOps tool for deploying Quadlets
 - [bitwarden/self-host](https://github.com/bitwarden/self-host) - Bitwarden's self-hosted release repository
@@ -1135,7 +1136,7 @@
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection
 - [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
-- [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway
+- [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
