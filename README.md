@@ -129,7 +129,7 @@
 - [chainguard-forks/kaniko](https://github.com/chainguard-forks/kaniko) - Build Container Images In Kubernetes
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
 - [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is a headless, cloud-native CI/CD orchestration engine.
