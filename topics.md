@@ -640,7 +640,7 @@
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
-- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
@@ -705,7 +705,7 @@
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
-- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -779,7 +779,7 @@
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
 - [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -1584,7 +1584,7 @@
 
 ## vpn 
 
-- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
+- [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
 - [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
