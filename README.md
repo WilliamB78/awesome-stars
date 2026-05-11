@@ -50,6 +50,7 @@
 
 ## C++ 
 
+- [TwilitRealm/dusk](https://github.com/TwilitRealm/dusk) - Dusk brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 - [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
