@@ -282,7 +282,7 @@
 ## Others 
 
 - [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18) - Formation PostgreSQL 18 | De débutant à avancé | 21 chapitres + 7 annexes | Architecture, SQL avancé, Performance, HA, Production | Français
-- [Raezil/golang-interview-prep-in-english](https://github.com/Raezil/golang-interview-prep-in-english) - 
+- [Protocol-Lattice/golang-interview-prep-in-english](https://github.com/Protocol-Lattice/golang-interview-prep-in-english) - 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -320,7 +320,7 @@
 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 195+ scan vectors (95+ email / 100+ username) for security research, investigations, and digital footprinting.
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite. Analyzes 205+ scan vectors (100+ email / 105+ username) for security research, investigations, and digital footprinting.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [m3ue/m3u-proxy](https://github.com/m3ue/m3u-proxy) - A high-performance IPTV streaming proxy service with failover support and comprehensive API management. Includes ability to transcode with hardware acceleration, or direct proxy without transcoding.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
