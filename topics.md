@@ -319,7 +319,7 @@
 
 - [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18) - Formation PostgreSQL 18 | De débutant à avancé | 21 chapitres + 7 annexes | Architecture, SQL avancé, Performance, HA, Production | Français
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is a headless, cloud-native CI/CD orchestration engine.
+- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is a headless Workflow orchestration engine.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -443,7 +443,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is a headless, cloud-native CI/CD orchestration engine.
+- [open-ug/conveyor](https://github.com/open-ug/conveyor) - Conveyor CI is a headless Workflow orchestration engine.
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -954,7 +954,7 @@
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, or local storage. SSH Tunnel sup
 - [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
-- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 12.
+- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
@@ -1226,7 +1226,7 @@
 
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
-- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 12.
+- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code
 - [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
@@ -1495,7 +1495,7 @@
 ## tailwindcss 
 
 - [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code.
-- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 12.
+- [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
