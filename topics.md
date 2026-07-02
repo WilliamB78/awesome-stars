@@ -93,6 +93,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [linux](#linux)
 - [llm](#llm)
 - [login](#login)
@@ -964,6 +965,10 @@
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
+
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-php](https://github.com/Chalarangelo/30-seconds-of-php) - Short PHP code snippets for all your development needs
 
 ## linux 
 
