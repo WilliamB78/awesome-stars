@@ -1157,6 +1157,7 @@
 
 ## others 
 
+- [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3.
 - [kelec-public/kelec-app](https://github.com/kelec-public/kelec-app) - Kelec app (https://kelec.app)
 - [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) - 
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
