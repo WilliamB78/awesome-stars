@@ -374,7 +374,7 @@
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
