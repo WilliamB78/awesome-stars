@@ -215,7 +215,7 @@
 ## ai-agents 
 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
 
 ## analytics 
 
@@ -259,7 +259,7 @@
 
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
 - [magooney-loon/pb-deployer](https://github.com/magooney-loon/pb-deployer) - pocketbase deployer
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your estate
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -400,7 +400,7 @@
 
 ## cybersecurity 
 
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, a
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 
@@ -469,7 +469,7 @@
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -504,7 +504,7 @@
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your estate
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [pgautoupgrade/docker-pgautoupgrade](https://github.com/pgautoupgrade/docker-pgautoupgrade) - A PostgreSQL Docker container that automatically upgrades your database
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -746,7 +746,6 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1012,7 +1011,7 @@
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## login 
@@ -1051,6 +1050,7 @@
 ## mcp 
 
 - [Swival/swival](https://github.com/Swival/swival) - A small, powerful, open-source CLI coding agent that works with open models.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1164,12 +1164,12 @@
 
 ## osint 
 
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, a
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 
 ## osint-tools 
 
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, a
 
 ## others 
 
@@ -1335,7 +1335,7 @@
 ## python 
 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
-- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.
+- [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, a
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
@@ -1453,7 +1453,7 @@
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
