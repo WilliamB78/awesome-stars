@@ -93,7 +93,7 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [pgsty/minio](https://github.com/pgsty/minio) - S3/MinIO Compatible Object Storage, MinIO fork maintained by PGSTY
+- [pgsty/silo](https://github.com/pgsty/silo) - S3/MinIO Compatible Object Storage. A MinIO fork maintained by PGSTY
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
 - [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
