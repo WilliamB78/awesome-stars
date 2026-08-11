@@ -241,7 +241,7 @@
 
 ## api 
 
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - 🚀 Dockerized Go API application with DB migrations, GitOps and Kubernetes Kustomize based CD
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
@@ -497,7 +497,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - 🚀 Dockerized Go API application with DB migrations, GitOps and Kubernetes Kustomize based CD
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -660,7 +660,7 @@
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - 🚀 Dockerized Go API application with DB migrations, GitOps and Kubernetes Kustomize based CD
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [axadrn/shadcn-templ](https://github.com/axadrn/shadcn-templ) - A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
@@ -723,7 +723,7 @@
 - [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored.
 - [jlandersen/k8s-unix-system](https://github.com/jlandersen/k8s-unix-system) - Jurassic Park Unix System style Kubernetes resource viewer
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - 🚀 Dockerized Go API application with DB migrations, GitOps and Kubernetes Kustomize based CD
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [axadrn/shadcn-templ](https://github.com/axadrn/shadcn-templ) - A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
@@ -935,7 +935,7 @@
 - [jlandersen/k8s-unix-system](https://github.com/jlandersen/k8s-unix-system) - Jurassic Park Unix System style Kubernetes resource viewer
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [okwilkins/h8s](https://github.com/okwilkins/h8s) - Homernetes is a Talos OS based K8s cluster for my homelab.
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - 🚀 Dockerized Go API application with DB migrations, GitOps and Kubernetes Kustomize based CD
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18) - Formation PostgreSQL 18 | De débutant à avancé | 21 chapitres + 7 annexes | Architecture, SQL avancé, Performance, HA, Production | Français
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
