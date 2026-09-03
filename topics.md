@@ -243,7 +243,6 @@
 
 ## api 
 
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
@@ -499,7 +498,6 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
