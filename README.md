@@ -80,6 +80,8 @@
 
 ## Go 
 
+- [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPDFSuit - Ultra Fast PDF Engine (Gin Web + gopdflib +pypdfsuit)
+- [Tight-Line/ballast](https://github.com/Tight-Line/ballast) - Automated Kubernetes workload resource tracking and adjustment
 - [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.
 - [goposta/posta](https://github.com/goposta/posta) - Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
