@@ -36,6 +36,7 @@
 
 ## C 
 
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): a ~1.4M-param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class.
 - [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
