@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -215,6 +216,11 @@
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## ai-agent 
+
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 
 ## ai-agents 
 
@@ -1202,6 +1208,7 @@
 
 ## others 
 
+- [univrs-cloud/virgo](https://github.com/univrs-cloud/virgo) - Tool used to create virgoOS images for the Virgo project.
 - [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): a ~1.4M-param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class.
 - [Tight-Line/ballast](https://github.com/Tight-Line/ballast) - Automated Kubernetes workload resource tracking and adjustment
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
