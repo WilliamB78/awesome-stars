@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten) - A self-hosted application for sharing wishlists and collaborating on gifts and presents.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPDFSuit - Ultra Fast PDF Engine (Gin Web + gopdflib +pypdfsuit)
@@ -280,7 +281,7 @@
 
 - [jwlerch78/dashie-android-app](https://github.com/jwlerch78/dashie-android-app) - Dashie for Android — the family dashboard and Home Assistant kiosk app. AGPL-3.0.
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
-- [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Patches for Morphe
+- [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
