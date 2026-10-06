@@ -657,7 +657,7 @@
 ## gaming 
 
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Mac
-- [streetpea/chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- [chiaki-ng/chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [treyyoder/quakejs-docker](https://github.com/treyyoder/quakejs-docker) - Dockerized quakejs server
 
@@ -1216,6 +1216,7 @@
 
 ## others 
 
+- [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [ellite/candlr](https://github.com/ellite/candlr) - Candlr - a self-hosted birthday / anniversary calendar and reminder
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [univrs-cloud/virgo](https://github.com/univrs-cloud/virgo) - Tool used to create virgoOS images for the Virgo project.
