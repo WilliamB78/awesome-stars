@@ -431,6 +431,7 @@
 
 ## database 
 
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunn
@@ -1216,6 +1217,7 @@
 
 ## others 
 
+- [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [ellite/candlr](https://github.com/ellite/candlr) - Candlr - a self-hosted birthday / anniversary calendar and reminder
@@ -1444,6 +1446,7 @@
 
 ## rest-api 
 
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPDFSuit - Ultra Fast PDF Engine (Gin Web + gopdflib +pypdfsuit)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1451,6 +1454,7 @@
 
 ## rust 
 
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) - RClone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
