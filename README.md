@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -379,6 +380,7 @@
 
 ## Rust 
 
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
