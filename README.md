@@ -350,7 +350,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted certificate lifecycle management: issue, renew, discover, inventory and deploy TLS certificates across your infrastructure
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - Self-hosted control plane for TLS certificates, ready for 47-day certificates: issue, renew, discover, inventory and deploy them, and serve ACME for internal names and IPv4 addresses
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [Defendstack/DefendStack-Suite](https://github.com/Defendstack/DefendStack-Suite) - Open source defense for your entire stack
 - [DartSteven/Nutify](https://github.com/DartSteven/Nutify) - Modern web-based UPS monitoring system with real-time data visualization, alerts, and comprehensive reporting. Docker-ready with multi-architecture support.
@@ -403,7 +403,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
