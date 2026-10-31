@@ -28,8 +28,10 @@
 - [bash](#bash)
 - [bugbounty](#bugbounty)
 - [c-plus-plus](#c-plus-plus)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -332,6 +334,10 @@
 
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 
+## chatgpt 
+
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
+
 ## chrome 
 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -340,6 +346,10 @@
 ## chrome-extension 
 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
+## claude 
+
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 
 ## cli 
 
@@ -530,6 +540,7 @@
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -1202,6 +1213,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1353,6 +1365,7 @@
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18) - Formation PostgreSQL 18 | De débutant à avancé | 21 chapitres + 7 annexes | Architecture, SQL avancé, Performance, HA, Production | Français
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
