@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -70,10 +69,6 @@
 
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## Dockerfile 
-
-- [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 
 ## Elixir 
 
@@ -363,6 +358,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
+- [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
@@ -442,7 +438,7 @@
 
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
-- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
+- [lklynet/aurral](https://github.com/lklynet/aurral) - Find new music, get it, and play it, all on your own server.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [kelec-public/kelec-app](https://github.com/kelec-public/kelec-app) - Open source app to track your EV (https://kelec.app)
 - [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) - RClone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
