@@ -181,7 +181,7 @@
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One b
 - [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
-- [buggregator/server](https://github.com/buggregator/server) - Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.
+- [buggregator/server](https://github.com/buggregator/server) - One local debugging server, one binary: catches errors, dumps, emails, logs, profiles and HTTP from your app in development. Speaks Sentry, Ray, VarDumper, Monolog, SMTP, XHProf. Mock server, Xdebug i
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate or backup/restore Kubernetes persistent volumes
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
