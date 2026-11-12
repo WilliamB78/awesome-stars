@@ -378,6 +378,7 @@
 
 ## Rust 
 
+- [rylos/rynas](https://github.com/rylos/rynas) - Modular NAS manager for Debian: web UI, storage, shares, snapshots, network, Synology hardware. Rust + WebAssembly.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
