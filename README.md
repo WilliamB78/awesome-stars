@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [aureq/cert-manager-webhook-ovh](https://github.com/aureq/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager with extra functionality and security in mind
 - [Kha-kis/dashgate](https://github.com/Kha-kis/dashgate) - Self-hosted application gateway with multi-method auth, group-based access control, and auto-discovery
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten) - A self-hosted application for sharing wishlists and collaborating on gifts and presents.
@@ -378,6 +379,7 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [rylos/rynas](https://github.com/rylos/rynas) - Modular NAS manager for Debian: web UI, storage, shares, snapshots, network, Synology hardware. Rust + WebAssembly.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
@@ -472,7 +474,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
