@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
@@ -35,7 +36,7 @@
 
 ## C 
 
-- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): a ~294k-1.4m param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class.
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
 - [chiaki-ng/chiaki-ng](https://github.com/chiaki-ng/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 - [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -73,6 +74,10 @@
 ## Elixir 
 
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
+
+## GDScript 
+
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 
 ## Go 
 
@@ -270,7 +275,7 @@
 
 ## Kotlin 
 
-- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
+- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [jwlerch78/dashie-android-app](https://github.com/jwlerch78/dashie-android-app) - Dashie for Android — the family dashboard and Home Assistant kiosk app. AGPL-3.0.
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
@@ -303,6 +308,7 @@
 
 ## PHP 
 
+- [karatektus/pl_mail](https://github.com/karatektus/pl_mail) - Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [David-Crty/databasement](https://github.com/David-Crty/databasement) - Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunn
