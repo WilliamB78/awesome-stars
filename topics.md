@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -18,6 +19,7 @@
 - [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -61,6 +63,7 @@
 - [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
+- [esp32](#esp32)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -78,6 +81,7 @@
 - [git](#git)
 - [github](#github)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
@@ -96,7 +100,6 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
-- [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -125,6 +128,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -171,6 +175,7 @@
 - [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -203,6 +208,10 @@
 - [Swival/swival](https://github.com/Swival/swival) - A small, powerful, open-source CLI coding agent that works with open models.
 
 ## agent-skills 
+
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
+
+## agentic-ai 
 
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 
@@ -243,11 +252,11 @@
 
 ## android 
 
-- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
+- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.
 - [mayukh4/linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [jwlerch78/dashie-android-app](https://github.com/jwlerch78/dashie-android-app) - Dashie for Android — the family dashboard and Home Assistant kiosk app. AGPL-3.0.
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -278,6 +287,10 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [smocker-dev/smocker](https://github.com/smocker-dev/smocker) - Smocker is a simple and efficient HTTP mock server and proxy
+
+## arduino 
+
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
 
 ## artificial-intelligence 
 
@@ -504,6 +517,7 @@
 
 ## devops 
 
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
@@ -540,6 +554,7 @@
 
 ## docker 
 
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 - [TheDuffman85/crowdsec-web-ui](https://github.com/TheDuffman85/crowdsec-web-ui) - A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
 - [Kha-kis/dashgate](https://github.com/Kha-kis/dashgate) - Self-hosted application gateway with multi-method auth, group-based access control, and auto-discovery
 - [victor-falcon/plain-week](https://github.com/victor-falcon/plain-week) - Minimal open-source weekly planner and to-do list. Free, MIT, self-hostable.
@@ -631,6 +646,10 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+## esp32 
+
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
+
 ## facebook 
 
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
@@ -672,6 +691,7 @@
 
 ## game 
 
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
@@ -780,6 +800,10 @@
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
+
+## godot 
+
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 
 ## golang 
 
@@ -917,6 +941,7 @@
 
 - [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
 - [mayukh4/linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud.
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [jwlerch78/dashie-android-app](https://github.com/jwlerch78/dashie-android-app) - Dashie for Android — the family dashboard and Home Assistant kiosk app. AGPL-3.0.
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
@@ -985,10 +1010,6 @@
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
-## jetpack-compose 
-
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-
 ## json 
 
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
@@ -998,11 +1019,12 @@
 
 ## kotlin 
 
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
 ## kubernetes 
 
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
@@ -1132,7 +1154,7 @@
 
 ## material-design 
 
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 
 ## mcp 
@@ -1188,7 +1210,7 @@
 
 - [lklynet/aurral](https://github.com/lklynet/aurral) - Find new music, get it, and play it, all on your own server.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## mysql 
@@ -1238,6 +1260,10 @@
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
+## numpy 
+
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
+
 ## objective-c 
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
@@ -1276,15 +1302,15 @@
 
 ## others 
 
+- [karatektus/pl_mail](https://github.com/karatektus/pl_mail) - Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 - [aureq/cert-manager-webhook-ovh](https://github.com/aureq/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager with extra functionality and security in mind
 - [rylos/rynas](https://github.com/rylos/rynas) - Modular NAS manager for Debian: web UI, storage, shares, snapshots, network, Synology hardware. Rust + WebAssembly.
-- [leag1234/ElixirOffice](https://github.com/leag1234/ElixirOffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
+- [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
 - [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) - DroidDeck brings the SteamOS experience to Android
 - [openworkers/openworkers-runner](https://github.com/openworkers/openworkers-runner) - 
 - [ellite/candlr](https://github.com/ellite/candlr) - Candlr - a self-hosted birthday / anniversary calendar and reminder
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [univrs-cloud/virgo](https://github.com/univrs-cloud/virgo) - Tool used to create virgoOS images for the Virgo project.
-- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): a ~294k-1.4m param neural TTS that runs on a $3 chip or in the browser. Leads SCOREQ/UTMOS in the sub-15M class.
 - [Tight-Line/ballast](https://github.com/Tight-Line/ballast) - Automated Kubernetes workload resource tracking and adjustment
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
@@ -1426,7 +1452,7 @@
 
 ## privacy 
 
-- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.
+- [man15h/tellyscope](https://github.com/man15h/tellyscope) - Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. no root, no PC.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -1457,6 +1483,7 @@
 
 ## python 
 
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
 - [chinmay-sawant/gopdfsuit](https://github.com/chinmay-sawant/gopdfsuit) - GoPDFSuit - Ultra Fast PDF Engine (Gin Web + gopdflib +pypdfsuit)
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+
@@ -1731,6 +1758,10 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
+## text-to-speech 
+
+- [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS) - sanoTTS (सानो = 'small' in Nepali): 294k–2.27M-parameter neural TTS that runs on a $3 chip, in the browser, or in Python with low-latency streaming.
+
 ## tui 
 
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -1792,6 +1823,7 @@
 
 ## visualization 
 
+- [DasCondor/kubefactory](https://github.com/DasCondor/kubefactory) - A first-person factory game that views and manages your Kubernetes clusters and Docker containers
 - [jlandersen/k8s-unix-system](https://github.com/jlandersen/k8s-unix-system) - Jurassic Park Unix System style Kubernetes resource viewer
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 
@@ -1865,7 +1897,6 @@
 ## youtube 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
 - [GHJJ123/brainrotguard](https://github.com/GHJJ123/brainrotguard) - YouTube approval system for kids — parent approves via Telegram, kid watches via web UI
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
