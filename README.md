@@ -258,7 +258,7 @@
 
 ## JavaScript 
 
-- [leag1234/ElixirOffice](https://github.com/leag1234/ElixirOffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
+- [leag1234/elixiroffice](https://github.com/leag1234/elixiroffice) - Open Source Office suite for users used to MS Office - multi-platform, tuned for performance
 - [leukipp/touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [jlandersen/k8s-unix-system](https://github.com/jlandersen/k8s-unix-system) - Jurassic Park Unix System style Kubernetes resource viewer
@@ -280,7 +280,7 @@
 - [jwlerch78/dashie-android-app](https://github.com/jwlerch78/dashie-android-app) - Dashie for Android — the family dashboard and Home Assistant kiosk app. AGPL-3.0.
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
 - [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
