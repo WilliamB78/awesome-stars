@@ -165,6 +165,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [support](#support)
 - [svelte](#svelte)
 - [symfony](#symfony)
@@ -454,6 +455,7 @@
 
 ## css 
 
+- [nforst/fagus](https://github.com/nforst/fagus) - HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## cybersecurity 
@@ -1081,6 +1083,7 @@
 
 ## laravel 
 
+- [nforst/fagus](https://github.com/nforst/fagus) - HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.
 - [victor-falcon/plain-week](https://github.com/victor-falcon/plain-week) - Minimal open-source weekly planner and to-do list. Free, MIT, self-hostable.
 - [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
@@ -1313,7 +1316,6 @@
 - [univrs-cloud/virgo](https://github.com/univrs-cloud/virgo) - Tool used to create virgoOS images for the Virgo project.
 - [Tight-Line/ballast](https://github.com/Tight-Line/ballast) - Automated Kubernetes workload resource tracking and adjustment
 - [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) - New mask, same task.                                                                 All patches answer to Doom.
-- [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) - 🍃 Human-made patches for Morphe
 - [goposta/posta](https://github.com/goposta/posta) - Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
@@ -1406,6 +1408,7 @@
 
 ## php 
 
+- [nforst/fagus](https://github.com/nforst/fagus) - HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
 - [MGeurts/genealogy](https://github.com/MGeurts/genealogy) - Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.
@@ -1550,6 +1553,7 @@
 
 ## rust 
 
+- [nforst/fagus](https://github.com/nforst/fagus) - HTML and CSS to PDF for PHP and Laravel, without a browser. Renders like Chrome prints, with PDF/A, PDF/UA and ZUGFeRD/Factur-X.
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [Zarestia-Dev/rclone-manager](https://github.com/Zarestia-Dev/rclone-manager) - RClone Manager is a cross-platform GUI application designed to help users manage Rclone remotes efficiently.
@@ -1696,6 +1700,12 @@
 ## stable-diffusion 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+## static-site-generator 
+
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## support 
 
