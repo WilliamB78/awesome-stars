@@ -112,7 +112,7 @@
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
 - [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM CLI, Goose, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio Ambient.
+- [learning-cloud-native-go/myapp](https://github.com/learning-cloud-native-go/myapp) - A production-grade microservice boilerplate featuring GORM CLI, Goose migrations, Swag, Zerolog, Validator.v10, GitOps, Kubernetes, Kustomize, ArgoCD & Istio Ambient.
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
